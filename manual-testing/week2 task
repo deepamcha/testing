@@ -1,0 +1,41 @@
+Week 2 (Sep 21-27): Test Design and Coverage
+Objective
+Create professional test assets that show systematic thinking, not random clicking.
+
+Test-design techniques
+Equivalence partitioning
+Boundary-value analysis
+Decision-table thinking
+State-transition thinking
+Error guessing
+Risk-based prioritization
+Build your manual suite
+[ ] Create 40-50 detailed test cases across registration, authentication, product search, cart, checkout, forms, and account management.
+[ ] Mark 8-12 critical cases as the smoke suite.
+[ ] Create a regression subset of approximately 25 high-value tests.
+[ ] Include normal, invalid, blank, boundary, and state-dependent cases.
+[ ] Execute the cases and record Actual Result plus Pass/Fail rather than leaving the sheet theoretical.
+Recommended test-case columns
+Field
+Purpose
+Test Case ID
+Stable identifier such as TC-LOGIN-001
+Feature/Scenario
+What is being tested
+Preconditions
+Required state before execution
+Steps
+Numbered actions
+Test Data
+Inputs used
+Expected Result
+Observable correct behavior
+Actual Result
+What happened
+Status
+Pass / Fail / Blocked
+Priority
+High / Medium / Low
+Notes/Evidence
+Screenshot, browser, special observations
+
